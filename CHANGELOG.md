@@ -1,3 +1,7 @@
+
+# 3.3.1
+* Upgrad AltBeacon library to version 2.5.1
+
 # 3.3.0
 
 ## Features
